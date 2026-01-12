@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / outputs
+logs/
+outputs/
+runs/
+
+# Local env files
+.env
+.env.*
+
+# Data (keep curated samples under data/, ignore raw dumps)
+data/raw/
